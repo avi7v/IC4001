@@ -265,7 +265,7 @@ body {
 }
 .el:nth-child(1) .el__bg:before {
   transition-delay: 0s;
-  background-image: url(../image/1.jpg);
+  background-image: url(./image/1.jpg);
 }
 .el:nth-child(2) {
   transform: translate3d(105.2083333333%, 0, 0);
@@ -284,7 +284,7 @@ body {
 }
 .el:nth-child(2) .el__bg:before {
   transition-delay: 0.1s;
-  background-image: url(../image/2.jpg);
+  background-image: url(./image/2.jpg);
 }
 .el:nth-child(3) {
   transform: translate3d(210.4166666667%, 0, 0);
@@ -303,7 +303,7 @@ body {
 }
 .el:nth-child(3) .el__bg:before {
   transition-delay: 0.2s;
-  background-image: url(../image/3.jpg);
+  background-image: url(./image/3.jpg);
 }
 .el:nth-child(4) {
   transform: translate3d(315.625%, 0, 0);
@@ -322,7 +322,7 @@ body {
 }
 .el:nth-child(4) .el__bg:before {
   transition-delay: 0.3s;
-  background-image: url(../image/6.jpg);
+  background-image: url(./image/6.jpg);
 }
 .el:nth-child(5) {
   transform: translate3d(420.8333333333%, 0, 0);
@@ -341,7 +341,7 @@ body {
 }
 .el:nth-child(5) .el__bg:before {
   transition-delay: 0.4s;
-  background-image: url(../image/8.jpg);
+  background-image: url(./image/8.jpg);
 }
 .el:hover .el__bg:after {
   opacity: 0;
