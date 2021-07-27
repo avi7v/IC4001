@@ -1,1 +1,1 @@
-http://avins.me/EP1000/
+https://avi7v.github.io/EP1000/
