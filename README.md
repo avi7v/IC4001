@@ -1,1 +1,1 @@
-https://avi7v.github.io/EP1000/
+http://avins.me/IC4001/
